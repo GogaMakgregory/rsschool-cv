@@ -1,7 +1,8 @@
 # **Yegor Osadko**
+
 # Contacts:
 * **E-mail:** yegor.o03@icloud.com
-  + **phone:** +380 99 999-99-99
++ **phone:** +380 99 999-99-99
 # About Me:
 I'm a young beginner in Front-end development. I really like IT and all that is connected with it.
 # Skills:
